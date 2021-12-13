@@ -8,7 +8,7 @@
 
 ## 🗒 Sobre
 
-Agenda Simples.
+Agenda Simples de contato, com um CRUD para o SQL server 2017
 
 ![agenda de contatos](agenda de contatos.JPG)
 
@@ -16,5 +16,4 @@ Agenda Simples.
 
 - .NET
 - C#
-
-
+- SQL Server 2017
