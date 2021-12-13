@@ -10,7 +10,7 @@
 
 Agenda Simples.
 
-![agenda de contatos.JPG](agenda de contatos.JPG)
+![agenda de contatos](agenda de contatos.JPG)
 
 ## 🚀 Tecnologias utilizadas
 
